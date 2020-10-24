@@ -1,5 +1,5 @@
 # Hello!
-## I'm Chris
+## 👋🏻 I'm Chris
 I’m a software engineer, architect and product manager.
 
 I believe in
@@ -12,7 +12,22 @@ I believe in
 
 My super powers include systems interface design and domain modelling, particularly for esoteric legacy systems.
 
-## Blog Posts
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/he/him?gradient=purple%20love" width="256" height="64" alt="My pronouns are he/him">
+</a>
+
+## ⚙️ Technology
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📝 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello](https://naxxfish.net/hello/)
 - [WhatsApp Migration](https://naxxfish.net/whatsapp-keychange/)
