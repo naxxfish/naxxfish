@@ -2,7 +2,11 @@
 ## 👋🏻 I'm Chris
 I’m a software engineer, architect and product manager.
 
-I believe in
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/he/him?gradient=purple%20love" width="256" height="64" alt="My pronouns are he/him">
+</a>
+
+I believe in:
 
 * Ethical, appropriate and sensible application of big data and AI.
 * Robust, yet pragmatic automated testing (100% test coverage is worthless if it doesn’t do what it was designed to do!).
@@ -11,10 +15,6 @@ I believe in
 * Empowering users to achieve their goals, rather than mollycoddling them.
 
 My super powers include systems interface design and domain modelling, particularly for esoteric legacy systems.
-
-<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/he/him?gradient=purple%20love" width="256" height="64" alt="My pronouns are he/him">
-</a>
 
 ## ⚙️ Technology
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript)
