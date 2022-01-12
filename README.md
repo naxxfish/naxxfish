@@ -29,9 +29,9 @@ My super powers include systems interface design and domain modelling, particula
 
 ## 📝 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is everyone going to build the Metaverse?](https://naxxfish.net/posts/2021-11-29-everyones-building-a-metaverse/)
+- [Crowdfunding Witch-hunt: Debunking Debunks of Aurora Nutrio](https://naxxfish.net/posts/2021-04-18-crowdfunding-witchhunt/)
+- [Sustainability: An affordable future?](https://naxxfish.net/affordable-sustainability-2021/)
 - [Hello](https://naxxfish.net/hello/)
 - [WhatsApp Migration](https://naxxfish.net/whatsapp-keychange/)
-- [Pwnage While-U-Wait: Migrating WhatsApp messages between Android and iOS](https://naxxfish.net/whatsapp-android-to-iphone/)
-- [Remote ID and Drones](https://naxxfish.net/2020/03/08/remote-id-and-drones/)
-- [My Photography Workflow](https://naxxfish.net/2019/12/08/my-photography-workflow/)
 <!-- BLOG-POST-LIST:END -->
