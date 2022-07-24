@@ -3,14 +3,14 @@
 I’m a software engineer, architect and technical lead.
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/he/him?gradient=purple%20love" width="256" height="64" alt="My pronouns are he/him">
+  <img src="https://pronouns.vercel.app/he/him?gradient=blu" width="256" height="64" alt="My pronouns are he/him">
 </a>
 
 I believe
 
+* in designing systems that minimise carbon emissions and energy usage during their operational life.
 * in Ethical, inclusive, appropriate and sensible application of big data and AI.
 * in robust, yet pragmatic automated testing (100% test coverage is worthless if it doesn’t do what it was designed to do!).
-* in designing systems that minimise carbon emissions and energy usage during their operational life.
 * in being accountable for the products you build.
 * in empowering users to achieve their goals, rather than mollycoddling them.
 * that engineers should own the "how", and help shape the "why".
@@ -30,6 +30,12 @@ My super powers include systems interface design and domain modelling, particula
 ![Git](https://img.shields.io/badge/-Git-lightgrey?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github)
 
+* Python
+* Django
+* Flask
+* Sqlite
+* CloudFormation
+* Terraform
 * [AWS Serverless Application Model](https://aws.amazon.com/serverless/sam/)
 * [RabbitMQ](https://www.rabbitmq.com/)
 * [Event Driven Architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
