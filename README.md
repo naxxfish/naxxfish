@@ -1,9 +1,8 @@
 # Hello!
 ## 👋🏻 I'm Chris
-I’m a software engineer, architect and technical lead.
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/he/him?gradient=blu" width="256" height="64" alt="My pronouns are he/him">
+  <img src="https://pronouns.vercel.app/he/them?gradient=anamnisar" width="256" height="64" alt="My pronouns are he/them">
 </a>
 
 I believe
@@ -36,6 +35,7 @@ My super powers include systems interface design and domain modelling, particula
 * Sqlite
 * CloudFormation
 * Terraform
+* Kuternetes
 * [AWS Serverless Application Model](https://aws.amazon.com/serverless/sam/)
 * [RabbitMQ](https://www.rabbitmq.com/)
 * [Event Driven Architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
